@@ -1,3 +1,4 @@
+Punit
 Chiki
 Pikku
 Akku
@@ -8,5 +9,3 @@ sunny
 vipin
 nikki
 Deepak
-Tinnu
-Dinesh
